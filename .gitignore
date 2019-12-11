@@ -1,0 +1,11 @@
+# Virtual environment
+env/
+
+# Beta versions code
+beta/
+
+# This thing
+.vscode/
+
+# Byte-compiled
+__pycache__
